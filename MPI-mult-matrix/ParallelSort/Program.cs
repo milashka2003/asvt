@@ -9,9 +9,9 @@
             {
                 int rank = communicator.Rank;
                 int size = communicator.Size;
-                int rowsA = 100; // Количество строк в первой матрице
-                int colsA = 100; // Количество столбцов в первой матрице (и строк во второй)
-                int colsB = 100; // Количество столбцов во второй матрице
+                int rowsA = 100; // Кол-во строк в первой матрице
+                int colsA = 100; // Кол-во столбцов в первой матрице (и строк во второй)
+                int colsB = 100; // Кол-во столбцов во второй матрице
                 int[] matrixA = new int[rowsA * colsA];
                 int[] matrixB = new int[colsA * colsB];
                 int[] matrixC = new int[rowsA * colsB];
