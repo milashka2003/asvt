@@ -1,4 +1,4 @@
-# Какие были сделаны изменения
+# сделаны изменения
 https://github.com/sorrymorning/SecondLabForASVT/blob/master/DistributedQueue.Worker/GregoryLeibnizGetPIJob.cs  
 Код выводит что любит есть каждый из тасков
 ## Вывод программы
